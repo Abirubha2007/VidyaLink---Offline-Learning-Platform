@@ -145,3 +145,12 @@ Access the application at `http://localhost:3000`.
 The SQLite database automatically seeds on first launch:
 * **Student**: `student@campuslink.com` / `password`
 * **Teacher**: `teacher@campuslink.com` / `password`
+
+---
+
+## Developed By
+
+**Abirubha P**
+
+---
+
